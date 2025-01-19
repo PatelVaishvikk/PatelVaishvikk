@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-  <h1>✨ Hello, I'm Vaishvikk Patel ✨</h1>
+  <h1>✨ Hello, I'm Vaishvik Patel ✨</h1>
   <p>
     <b>Data Analyst | AI Researcher | Full-Stack Developer</b>
   </p>
