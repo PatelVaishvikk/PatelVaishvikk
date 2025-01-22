@@ -21,7 +21,7 @@
 ---
 
 ## 🌟 About Me
-- 🎓 Master’s in Electrical and Computer Science from Canada.  
+- 🎓 Master’s in Electrical and Computer Engineer from Canada.  
 - 🎯 **Aspirations:** To become an AI Engineer, Scientist, and explore the fundamental nature of reality.  
 - 🔬 **Researcher:** Currently working on *Divine Backpropagation*—exploring connections between AI backpropagation and spirituality.  
 - 📖 **Interests:** Physics-informed neural networks, large language models (LLMs), emergent behaviors, cosmology, quantum physics, and AI ethics.  
