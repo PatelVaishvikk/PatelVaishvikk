@@ -10,7 +10,7 @@
 <div align="center">
   <h1>✨ Hello, I'm Vaishvik Patel ✨</h1>
   <p>
-    <b>Data Analyst | AI Researcher | Full-Stack Developer</b>
+    <b>Data Analyst</b>
   </p>
   <p>
     <i>Passionate about creating intelligent solutions that merge technology, science, and spirituality.</i>
